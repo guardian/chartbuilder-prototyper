@@ -50,7 +50,7 @@
     "yargs": "^7.1.0"
   },
   "dependencies": {
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "d3-sankey": "^0.12.3",
     "html2canvas": "^1.1.4",
     "mime-types": "^2.1.35",
